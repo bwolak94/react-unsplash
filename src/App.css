@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.form{
+  display: flex;
+  justify-content: space-between;
+  max-width:450px;
+  align-items: center;
+  margin: 0 auto;
+  margin-top:40px;
+}
+.button {
+  min-height:55px;
+  margin-left:2rem;
+}
+.title {
+  text-align: center;
+}
+.content {
+  margin-top:3rem;
+}
