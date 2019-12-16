@@ -17,10 +17,7 @@ const Lists = (props) => {
                      userName={image.user.first_name}
                      click={props.handleModal}
                      object={image}
-
-
                  />
-
             )
         })
     }

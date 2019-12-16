@@ -50,7 +50,6 @@ class App extends Component {
             show: false
         })
     };
-
     render() {
         return (
             <div className='app'>
@@ -78,5 +77,4 @@ class App extends Component {
         );
     }
 }
-
 export default App;
